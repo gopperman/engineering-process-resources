@@ -47,6 +47,7 @@ section.finale {
 .reveal .col__container .col {
   display: inline-block;
   float: left;
+  text-align: left;
   font-size: .8em;
   width: 50%;
   padding: 0 15px;
@@ -56,7 +57,7 @@ section.finale {
   color: #002b36;
 }
 
-.reveal .text__small li {
+.reveal .text__small {
   font-size: .8em !important;
 }
 
